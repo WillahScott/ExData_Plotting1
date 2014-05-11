@@ -8,7 +8,7 @@
 
 
 # Set working directory
-setwd('/Users/Will/Documents/Coursera/Data Science/personal')
+# setwd('/Users/Will/Documents/Coursera/Data Science/personal')
 
 
 ## Load data - Read all data then subset
