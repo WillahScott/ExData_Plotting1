@@ -48,7 +48,7 @@ with(data2, plot(x=timestamp, y=Global_active_power, ylab = "Global Active Power
                  xlab = '', type = 'l'))
 
 # Plot Voltage
-with(data2, plot(x=timestamp, y=Voltage, ylab = "Global Active Power (kilowatts)",
+with(data2, plot(x=timestamp, y=Voltage, ylab = "Voltage",
                  xlab = 'datetime', type = 'l'))
 
 # Plot Energy sub-metering
